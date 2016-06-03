@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReduxStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
@@ -23,3 +23,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+
+Proyecto de prueba aprendiendo redux
